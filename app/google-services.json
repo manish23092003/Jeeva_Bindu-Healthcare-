@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550745704506",
+    "project_id": "jeevabindu-ef80a",
+    "storage_bucket": "jeevabindu-ef80a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550745704506:android:c9584be56c648898678d03",
+        "android_client_info": {
+          "package_name": "com.jeevabindu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6siXel1cx1ULIquT2BVPGCdAzayYezJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
