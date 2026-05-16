@@ -165,7 +165,6 @@ JeevaBindu/
 - Live location tracking
 - AI-based donor recommendation
 - Hospital integration
-- Dark mode support
 - Multi-language support
 - Donation analytics dashboard
 
