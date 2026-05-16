@@ -83,8 +83,6 @@ The project follows modern Android development best practices:
 | :---: | :---: | :---: |
 | <img src="screenshots/login.png" width="220"> | <img src="screenshots/home.png" width="220"> | <img src="screenshots/health.png" width="220"> |
 
-> **Note:** To display these images, ensure you have a `screenshots/` folder in your root directory containing `login.png`, `home.png`, and `health.png`.
-
 ---
 
 # 📦 Installation & Setup
